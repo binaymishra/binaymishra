@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building Event Driven microservices using Java 8+ and Spring Eco-system 
+- 🔭 I’m currently working on building Event Driven microservices using Java and Spring Eco-system 
 - 🌱 I’m currently learning Clojure
 - 👯 I’m looking to collaborate on opensource project espically using java and clojure
 - 🤔 I’m looking for help with building systems using my modest skills and time while learning new things 
