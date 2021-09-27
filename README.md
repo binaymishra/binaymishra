@@ -7,5 +7,5 @@
 - 💬 Ask me about java, miscoservices, event driven system, smart processautomation with RPA
 - 📫 How to reach me: mail: binaymishramca@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am 5am bird, walk 20k steps, spend time on National Geographic and I listen more than I talk.
+- ⚡ Fun fact: I am 5am bird, take mindfullness long walk, mysteries of nature & National Geographic follower and I listen more than I talk.
 
